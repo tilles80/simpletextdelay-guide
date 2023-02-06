@@ -1,0 +1,51 @@
+.align-right {
+    float: right;
+    margin-left: 25px;
+    border: solid 1px rgb(224, 224, 224);
+}
+
+.img-easing {
+    display: block;
+    min-width: 100px;
+}
+
+.highlight {
+    background-color: #669fff;
+    padding: 5px;
+    margin-right: 10px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.markdown-section p.warn {
+    /* overwrite */
+    background: hsl(197, 100%, 66%, .3);
+}
+.markdown-section p.warn a {
+    color: #000;
+}
+
+.markdown-section p.tip {
+    border-bottom-right-radius: 20px;
+    border-left: 7px solid #669fff;
+    border-top-right-radius: 2px;
+    margin: 2em 0;
+    padding: 12px 24px 12px 30px;
+    position: relative;
+}
+.markdown-section p.tip:before {
+    background-color: #669fff;
+    border-radius: 100%;
+    color: #fff;
+    content: "!";
+    font-family: Dosis,Source Sans Pro,Helvetica Neue,Arial,sans-serif;
+    font-size: 21px;
+    font-weight: 700;
+    left: -16px;
+    line-height: 25px;
+    position: absolute;
+    height: 26px;
+    width: 26px;
+    text-align: center;
+    top: 14px;
+}
