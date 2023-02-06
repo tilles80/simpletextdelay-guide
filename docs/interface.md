@@ -23,9 +23,9 @@ You may enter the values in the fields, the script will add just the properties 
 - **Opacity**: Turn opacity on / off. When on, it assumes that the opacity is *0* which cover the most cases. For other opacity value, you may turn on the checkbox and change after creating the delay.
 - **Scale**: Set the value for scale, which will be applied to Scale X and Scale Y.
 
-> To reset the values in a property, double click on the property label.
+?> To reset the values in a property, double click on the property label.
 
-> If you need different values for IN and OUT animation, you can create the delays separately. They will add together in the final animation.
+?> If you need different values for IN and OUT animation, you can create the delays separately. They will add together in the final animation.
 
 ## Options
 These are the heart of text animation, we all know them well. 
