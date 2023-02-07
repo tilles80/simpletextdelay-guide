@@ -25,7 +25,7 @@ You may enter the values in the fields, the script will add just the properties 
 
 ?> To reset the values in a property, double click on the property label.
 
-?> If you need different values for IN and OUT animation, you can create the delays separately. They will add together in the final animation.
+?> If you need different values for IN and OUT animation, you can create two delays separately. They will add together in the final animation.
 
 ## Options
 These are the heart of text animation, we all know them well. 
